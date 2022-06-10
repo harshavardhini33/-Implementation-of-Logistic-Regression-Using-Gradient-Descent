@@ -14,7 +14,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 3. Import linear regression from sklearn.
 4. Predict the values of array.
 5. Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
-6.  Obtain the graph.
+6. Obtain the graph.
 ```
 ## Program:
 ```
@@ -73,7 +73,8 @@ plt.show()
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+
+![s1](https://user-images.githubusercontent.com/93427208/172994088-253ad715-8c5a-4c89-8dfa-c80d3ebb2dbf.png)
 
 
 ## Result:
